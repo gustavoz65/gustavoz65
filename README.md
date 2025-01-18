@@ -1,4 +1,4 @@
-p align="left">olá meu nome é Gustavo👋</p>
+<p>olá meu nome é Gustavo👋</p>
 
 ###
 
