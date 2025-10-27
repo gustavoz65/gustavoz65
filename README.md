@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Olá, eu sou o Gustavo Silva!
+# Olá, eu sou o Gustavo Silva!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5CE6&center=true&vCenter=true&width=600&lines=Fullstack+Developer+Jr+na+Sislav;Apaixonado+por+Go+e+TypeScript;21+anos+|+Cuiabá-MT;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
