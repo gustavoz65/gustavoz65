@@ -13,13 +13,6 @@ const gustavo = {
   idade: 21,
   formação: "Análise e Desenvolvimento de Sistemas (ADS)",
   
-  stack: {
-    backend: ["Go", "TypeScript", "Node.js", "PL/SQL"],
-    frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-    database: ["PostgreSQL", "MySQL", "Oracle", "Redis"],
-    devops: ["Docker", "Git", "Linux", "CI/CD"]
-  },
-  
   interesses: ["Arquitetura de Software", "Microsserviços", "Clean Code", "DevOps"],
   
   aprendendo: ["Kubernetes", "AWS", "gRPC", "GraphQL"],
