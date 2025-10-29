@@ -16,8 +16,6 @@ const gustavo = {
   interesses: ["Arquitetura de Software", "Microsserviços", "Clean Code", "DevOps"],
   
   aprendendo: ["Kubernetes", "AWS", "gRPC", "GraphQL"],
-  
-  frase: "Transformando café em código limpo e soluções eficientes ☕"
 };
 ```
 
