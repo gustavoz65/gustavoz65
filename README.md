@@ -90,13 +90,3 @@ const gustavo = {
   ### 💭 Quote do Dia
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  <br>
-  
-  **"O código limpo sempre parece ter sido escrito por alguém que se importa."**  
-  *- Robert C. Martin*
-  
-  <br>
-  
-  ⭐ **Deixe uma estrela nos meus repositórios se gostar do meu trabalho!** ⭐
-</div>
