@@ -7,7 +7,7 @@
 ## 🎯 Sobre Mim
 
 ```javascript
-const gustavo = {
+var gustavo = {
   cargo: "Fullstack Developer Junior @ Sislav",
   localização: "Cuiabá - MT, Brasil",
   idade: 21,
