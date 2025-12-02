@@ -2,7 +2,7 @@
 
 **Fullstack Developer Jr** · Cuiabá, MT 🇧🇷
 
-Desenvolvedor apaixonado por criar soluções escaláveis e código limpo. Atualmente na **Sislav**, construindo aplicações fullstack com Go, TypeScript e React.
+Desenvolvedor apaixonado por criar soluções escaláveis e código limpo. Atualmente na **Sislav**, construindo aplicações fullstack com TypeScript e React.
 
 ---
 
