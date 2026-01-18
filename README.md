@@ -29,7 +29,7 @@ Desenvolvedor apaixonado e intusiasta por Software e código limpo. Atualmente n
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=gustavoz65&theme=transparent&hide_border=true&ring=6B5CE6&fire=6B5CE6&currStreakLabel=6B5CE6" />
 </a>
 <a href="https://github.com/gustavoz65">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoz65&layout=compact&theme=transparent&hide_border=true&title_color=6B5CE6&text_color=ffffff&icon_color=6B5CE6" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoz65&layout=compact&theme=transparent&hide_border=true&title_color=6B5CE6&text_color=ffffff&icon_color=6B5CE6" />
 </a>
 
 ---
