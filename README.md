@@ -10,7 +10,7 @@ Desenvolvedor apaixonado e intusiasta por Software e código limpo. Atualmente n
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,react,nextjs,tailwind,postgres,redis,aws,docker,linux,git&perline=13" />
+    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,react,nextjs,nest,tailwind,postgres,redis,aws,docker,linux,git&perline=13" />
   </a>
 </p>
 
