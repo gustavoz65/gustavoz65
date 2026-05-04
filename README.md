@@ -1,25 +1,42 @@
 # Gustavo Silva
-
 **Fullstack Developer Jr** · Cuiabá, MT 🇧🇷
 
-Desenvolvedor apaixonado e intusiasta por Software e código limpo. Atualmente na **Sislav**, construindo aplicações fullstack com TypeScript e React.
+Construo aplicações SaaS de ponta a ponta — do schema do banco até a UI. 
+Atualmente na **Sislav**, trabalhando com TypeScript, NestJS e Next.js em uma 
+plataforma SaaS/IoT. Foco em código limpo, arquitetura sólida e sistemas 
+que escalam sem virar bagunça.
 
 ---
 
 ### Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,nodejs,express,react,nextjs,nest,tailwind,postgres,redis,aws,docker,linux,git&perline=13" />
-  </a>
-</p>
+**Languages**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python" />
+</a>
+
+**Frontend**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</a>
+
+**Backend**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,express,rabbitmq,prisma" />
+</a>
+
+**Database & DevOps**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,docker,linux,git" />
+</a>
 
 ---
 
 ### Atualmente
 
-🔧 Desenvolvendo APIs RESTful e microsserviços  
-📚 Aprofundando em arquitetura de software e clean code  
+🔧 Integrações de pagamento e arquitetura orientada a eventos com RabbitMQ  
+📚 Aprofundando em Clean Architecture, DDD e sistemas distribuídos  
+🧠 Estudando matemática aplicada a Machine Learning
 
 ---
 
