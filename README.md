@@ -126,12 +126,8 @@ I picked up **Go** on my own through side projects and use it for backends where
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavoz65&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B7CF6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoz65&bg_color=0D1117&color=A99BF0&line=8B7CF6&point=A99BF0&area=true&area_color=8B7CF6&hide_border=true&title_color=8B7CF6" alt="Contribution Graph"/>
-</div>
-
 ---
 
 <a href="https://github.com/gustavoz65">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E1240&height=160&section=footer&text=Ship+it.+Then+make+it+better.&fontSize=22&fontColor=8B7CF6&animation=twinkling&fontAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E1240&height=160&section=footer&text=VENI+VIDI+VICI&fontSize=22&fontColor=8B7CF6&animation=twinkling&fontAlignY=55"/>
 </a>
