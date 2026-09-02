@@ -72,7 +72,7 @@ I picked up **Go** on my own through side projects and use it for backends where
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/_Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
